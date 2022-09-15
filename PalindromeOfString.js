@@ -1,6 +1,6 @@
     // Problem to check the given String is Palindrome or not
 
-    let Str = "rajar";
+    let Str = "conunoc";
 
     let revStr = "";
 
